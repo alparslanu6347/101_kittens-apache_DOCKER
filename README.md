@@ -1,5 +1,8 @@
 # 101_kittens-apache_DOCKER
-101_kittens-apache_DOCKER
+- myapp
+- commands.txt
+- Dockerfile
+- myapp.png
 
 # Expected Outcome
 
