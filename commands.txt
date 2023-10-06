@@ -27,6 +27,6 @@
 
 - ec2 public IP al browser'a yapıştır (http://52.201.220.206/)
 
-- docker rm -f $(docker ps -aq)   # tüm containerları siler
+- docker rm -f $(docker ps -aq)   # delete all containers
 
-- docker image prune -af  # tum imajlari silmek icin
+- docker image prune -af  # delete all images
