@@ -1,3 +1,8 @@
+### docker-instance (host) : Amazon Linux 2 , t2.micro ###
+
+```bash
+- pwd   # home/ec2-user
+
 - mkdir kittens-apache
 
 - cd kittens-apache
@@ -25,8 +30,9 @@
 
 - docker container ls
 
-- ec2 public IP al browser'a yapıştır (http://52.201.220.206/)
+# ec2-instance public IP -->> browser: http://52.201.220.206/
 
 - docker rm -f $(docker ps -aq)   # delete all containers
 
 - docker image prune -af  # delete all images
+```

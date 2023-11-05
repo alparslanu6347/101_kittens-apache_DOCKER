@@ -1,6 +1,6 @@
 # 101_kittens-apache_DOCKER
 - myapp
-- commands.txt
+- commands.md
 - Dockerfile
 - myapp.png
 
